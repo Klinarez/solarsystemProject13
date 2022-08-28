@@ -19,6 +19,8 @@ public class Main {
         omaro.radius=1234455;
         omaro.color="pink";
     }
+//planet2
+
 
 
 
